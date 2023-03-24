@@ -1,0 +1,31 @@
+
+.jam-card {
+    display: flex;
+    background: linear-gradient(90deg, rgba(224,31,105,1) 0%, rgba(123,120,179,1) 84%);
+    border-radius: 10px;
+    padding: 15px;
+    margin: 10px;
+    justify-content: space-between;
+}
+
+.card-tail {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 25%;
+}
+
+.card-head {
+    
+}
+
+.winner-name {
+    color: rgba(2, 18, 30, 0.652);
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.card-data {
+    color: rgba(0, 0, 0, 0.652);
+    font-weight: bold;
+}
